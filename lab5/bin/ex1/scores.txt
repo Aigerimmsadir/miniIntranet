@@ -1,0 +1,5 @@
+Ivanov Ivan 100
+Aliyev Ali 22
+Adreyev Andrey 80
+Menshikov Sergey 65
+Kovalyov Maxim 40
